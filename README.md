@@ -10,9 +10,9 @@ This README provides a comprehensive overview of our project for the Smart India
 
 ### Team Members:
 * `Parth Rai` - `2023UIC3655` - [@Parth-Rai](https://github.com/Parth-Rai)
-* `Anmol Garg` - `2023UIC3667` - [@MEMBER_2_USERNAME](https://github.com/MEMBER_2_USERNAME)
+* `Anmol Garg` - `2023UIC3667` - [@ANMOLSCRIPT](https://github.com/ANMOLSCRIPT)
 * `Aditya Bhalla` - `2023UIC6618` - [@Yeti-19](https://github.com/Yeti-19)
-* `Ryena Dhingra` - `2023UCS1662` - [@MEMBER_4_USERNAME](https://github.com/MEMBER_4_USERNAME)
+* `Ryena Dhingra` - `2023UCS1662` - [@ryyena](https://github.com/ryyena)
 * `Shreya Singh` - `2023UEC2557` - [@shreyaa-offgrid](https://github.com/shreyaa-offgrid)
 * `Shivakshi` - `2023UBT1044` - [@Sshivakshi](https://github.com/Sshivakshi)
 
