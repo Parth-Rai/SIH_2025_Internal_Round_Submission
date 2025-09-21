@@ -18,7 +18,7 @@ This README provides a comprehensive overview of our project for the Smart India
 
 ## 🚀 Problem Statement
 
-**(Clearly describe the problem statement you are solving. Explain the context, the challenges, and why it is important.)**
+**Problem Statement ID: SIH25004, Problem Statement Title: Image Based Recognition for cattle and buffaloes of India**
 
 ---
 
@@ -33,6 +33,6 @@ This README provides a comprehensive overview of our project for the Smart India
 * **SIH Presentation:** [Final SIH Presentation](https://drive.google.com/file/d/1XHUo8IhA-JfhoMGAC3vsRwgTtnUc4t1n/view?usp=drive_link)
 * **Video Demonstration:** [Watch Video](UNLISTED_YOUTUBE_LINK)
 * **Live Deployment:** [View Deployment](https://gaunetra-ai.onrender.com/)
-* **Source Code:** GitHub Repositories [App](https://github.com/ANMOLSCRIPT/Bovine-Vision-SIH-Android-App) [Website](https://github.com/Parth-Rai/GauNetra-AI-SIH-Submission) [ML Model](https://github.com/Yeti-19/Bovine-Vision-ML-Model)) 
-
+* **Source Code:** GitHub Repositories [ App ](https://github.com/ANMOLSCRIPT/Bovine-Vision-SIH-Android-App) [ Website ](https://github.com/Parth-Rai/GauNetra-AI-SIH-Submission) [ ML Model ](https://github.com/Yeti-19/Bovine-Vision-ML-Model) 
+(Repositories with source code kept private, added Manas bhaiya as collaborator)
 ---
