@@ -19,13 +19,13 @@ This README provides a comprehensive overview of our project for the Smart India
 ## 🚀 Problem Statement
 
 **Problem Statement ID: SIH25004** 
-**Problem Statement Title: Image Based Recognition for cattle and buffaloes of India**
+**Problem Statement Title: Image Based Recognition for cattle and buffaloes of India.**
 
 ---
 
 ## ✨ Our Solution
 
-**ML-driven mobile and web application for instant cattle breed identification**
+**ML-driven mobile and web application for instant cattle breed identification.**
 
 ---
 
