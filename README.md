@@ -40,5 +40,5 @@ This README provides a comprehensive overview of our project for the Smart India
   * App Repository: [App](https://github.com/ANMOLSCRIPT/Bovine-Vision-SIH-Android-App)
   * Website Repository: [Website](https://github.com/Parth-Rai/GauNetra-AI-SIH-Submission)
   * ML Model Repository: [ML Model](https://github.com/Yeti-19/Bovine-Vision-ML-Model)
-  * (Repositories kept private & added Manas bhaiya as collaborator)
+  * (Repositories kept private, added ManasMadan and JackDwell08 as collaborators)
 ---
