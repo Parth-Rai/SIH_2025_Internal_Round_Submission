@@ -32,8 +32,9 @@ This README provides a comprehensive overview of our project for the Smart India
 ## 🎬 Project Links
 
 * **SIH Presentation:** [Final SIH Presentation](https://drive.google.com/file/d/1XHUo8IhA-JfhoMGAC3vsRwgTtnUc4t1n/view?usp=drive_link)
-* **Video Demonstration:** [Watch Video](UNLISTED_YOUTUBE_LINK)
-* **Live Deployment:** [View Deployment](https://gaunetra-ai.onrender.com/)
+* **Video Demonstration:** [Demo Video](https://youtu.be/S1ADUFi_180)
+* **Live Deployment:**
+  * [Live Website](https://gaunetra-ai.onrender.com/)
 * **Source Code:**
   * App Repository: [App](https://github.com/ANMOLSCRIPT/Bovine-Vision-SIH-Android-App)
   * Website Repository: [Website](https://github.com/Parth-Rai/GauNetra-AI-SIH-Submission)
